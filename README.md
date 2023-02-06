@@ -4,3 +4,8 @@ We investigate the impact of reshoring silicon photovoltaic manufacturing to the
 2020, 2025, 2030, 2035, 2040, 2045, 2050 reshored manfuacturing scenarios <br /> 
 2010, 2015, 2020 global sourced manfuacturing scenarios
 ## Data files
+There are 4 folders under this repository: <br /> 
+1. Characterization factors <br /> 
+2. LCI <br /> 
+3. LCIA results <br /> 
+4. Sensitivity analysis  <br /> 
