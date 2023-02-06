@@ -9,3 +9,10 @@ There are 4 folders under this repository: <br />
 2. LCI <br /> 
 3. LCIA results <br /> 
 4. Sensitivity analysis  <br /> 
+## 1. Characterization factors
+
+## 2. LCI
+
+## 3. LCIA results
+
+## 4. Sensitivity analysis 
