@@ -1,5 +1,5 @@
 # c-Si-PV-
-### We investigate the impact of reshoring silicon photovoltaic manufacturing to the environment.
+We investigate the impact of reshoring silicon photovoltaic manufacturing to the environment.
 ## Scenarios
-reshored manfuacturing scenarios and global sourced manfuacturing scenarios
+2020-2050 reshored manfuacturing scenarios and 2010-2020 global sourced manfuacturing scenarios
 ## Data files
